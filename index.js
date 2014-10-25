@@ -1,0 +1,6 @@
+
+/**
+ * @module lospol
+ * @author diesweed
+ */
+
